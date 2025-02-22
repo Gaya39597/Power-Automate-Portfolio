@@ -12,7 +12,7 @@ Here are some of the projects I’ve completed:
    
 ### 2. **Folder Backup and Logging**
    - **Description**: An automation flow that backs up a selected folder and logs backup details in an Excel sheet.
-   - **Details**: [Folder Backup and Logging Project](https://github.com/Gaya39597/PowerAutomate-Projects)
+   - **Details**: [Folder Backup and Logging Project](https://github.com/Gaya39597/PAD-Folder-Backup)
 
 ## Significant Changes
 
