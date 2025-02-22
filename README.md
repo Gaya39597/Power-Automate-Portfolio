@@ -8,7 +8,7 @@ Here are some of the projects I’ve completed:
 
 ### 1. **Timesheet Reminder Flow**
    - **Description**: A flow that sends weekly reminders for timesheet submissions to employees, tracks their responses, and sends success or pending emails.
-   - **Details**: [Timesheet Reminder Flow Project](https://github.com/Gaya39597/Power-Automate---Timesheet-reminder)
+   - **Details**: [Timesheet Reminder Flow Project](https://github.com/Gaya39597/Power-Automate-Timesheet-reminder)
    
 ### 2. **Folder Backup and Logging**
    - **Description**: An automation flow that backs up a selected folder and logs backup details in an Excel sheet.
